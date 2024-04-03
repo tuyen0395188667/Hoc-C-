@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Project1\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Hoc-C-\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Project1\\Project1\\HocC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HocC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Hoc-C-\\Project1\\x64\\Debug\\HocC.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:x64\\Debug\\HocC.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Project1\\Project1\\CppProperties.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CppProperties.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Hoc-C-\\Project1\\HocC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HocC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CppProperties.json",
-              "DocumentMoniker": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Project1\\Project1\\CppProperties.json",
-              "RelativeDocumentMoniker": "CppProperties.json",
-              "ToolTip": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Project1\\Project1\\CppProperties.json",
-              "RelativeToolTip": "CppProperties.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-03T07:17:34.174Z",
-              "EditorCaption": ""
+              "DocumentIndex": 0,
+              "Title": "HocC.obj",
+              "DocumentMoniker": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Hoc-C-\\Project1\\x64\\Debug\\HocC.obj",
+              "RelativeDocumentMoniker": "x64\\Debug\\HocC.obj",
+              "ToolTip": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Hoc-C-\\Project1\\x64\\Debug\\HocC.obj",
+              "RelativeToolTip": "x64\\Debug\\HocC.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAENSURBVDhPjZPNDYMwDIVDxAlxYJR2hCKOSKzQEZiCaxmGIxIjtJu0B35upH4mrgCRlE8ydtLk2XFStafv\u002B8s4jm8YYjt9jDHGRguyuaoqAzslIqw3p2nKdkYkwAcLtNZdXddJ27b8g5BlmSrL8jPP8y2O45eIIYbXvs17ZC1MhAKU6Npss9vRAq1lL1WFPHIAUU9VCYl0GipQQzYBcdM0bAC\u002BKAqO94S2MRDpaJxgUsqjsz4xBsMw2GjbWDt1/IAo5uuEh63eh5mm6Y41Gh\u002BASqAIkyvaQ1nZo5H0CB9IxO/ABTLleW5HW\u002BQYvwpcSDNdTfQKRFEU0JGuFH7\u002BNtGHNHjVxPN/MuHolpRS6gsdswxexzQFmAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-03T07:46:04.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HocC.cpp",
-              "DocumentMoniker": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Project1\\Project1\\HocC.cpp",
+              "DocumentMoniker": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Hoc-C-\\Project1\\HocC.cpp",
               "RelativeDocumentMoniker": "HocC.cpp",
-              "ToolTip": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Project1\\Project1\\HocC.cpp",
+              "ToolTip": "C:\\Users\\Miichi\\Desktop\\C\u002B\u002B\\Hoc-C-\\Project1\\HocC.cpp",
               "RelativeToolTip": "HocC.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

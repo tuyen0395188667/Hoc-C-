@@ -24,11 +24,11 @@ void chi_so_BMI(ConNguoi nguoi)
 	}
 	else if (BMI > 20)
 	{
-		ket_qua = "Beo vl";
+		ket_qua = "Beo vll";
 	}
 	else
 	{
-		ket_qua = "Dep zai vl";
+		ket_qua = "Dep zai vll";
 	}
 
 	std::cout << "Ket qua BMI cua ban" << nguoi.ho_ten << " la " << ket_qua <<  std::endl;

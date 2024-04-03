@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\x64\\Debug"
   ],
-  "SelectedNode": "\\HocC.cpp",
+  "SelectedNode": "\\CppProperties.json",
   "PreviewInSolutionExplorer": false
 }
