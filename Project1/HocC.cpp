@@ -28,7 +28,7 @@ void chi_so_BMI(ConNguoi nguoi)
 	}
 	else
 	{
-		ket_qua = "Dep zai vll";
+		ket_qua = "Dep zai vl";
 	}
 
 	std::cout << "Ket qua BMI cua ban" << nguoi.ho_ten << " la " << ket_qua <<  std::endl;
