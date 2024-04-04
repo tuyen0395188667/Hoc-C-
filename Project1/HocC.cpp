@@ -12,8 +12,8 @@ struct ConNguoi
 };
 
 // void là kieu du lieu khong xac dinh, duoc tra ve theo gia tri ben trong
-// Tên hàm + Kieu du lieu và ten cua tham so
-void chi_so_BMI(ConNguoi nguoi)
+// Tên hàm + Kieu du lieu và Ten cua tham so
+std::string chi_so_BMI(ConNguoi nguoi)
 {
 	float BMI = nguoi.can_nang / (nguoi.chieu_cao * nguoi.chieu_cao);
 	std::string ket_qua;
@@ -30,10 +30,20 @@ void chi_so_BMI(ConNguoi nguoi)
 	{
 		ket_qua = "Dep zai vl";
 	}
-
-	std::cout << "Ket qua BMI cua ban" << nguoi.ho_ten << " la " << ket_qua <<  std::endl;
+	return ket_qua;
 }
 
+void dong_thoi_gian(ConNguoi nguoi, int nam_troi_qua)
+{
+	// Bieu thuc khoi tao Bien lap, Bieu thuc Dieu kien lap, Bieu thuc tang bien lap 
+	std::string ket_qua = chi_so_BMI(nguoi);
+	for (int i = 0; i < nam_troi_qua ; i = i+1 ) 
+	{
+		nguoi.can_nang = nguoi.can_nang + 2;
+		std::cout << nguoi.ho_ten << " " << ket_qua << std::endl;
+	}
+
+}
 
 
 int main()
@@ -47,7 +57,7 @@ int main()
 	nguoi.chieu_cao = 1.65;
 	
 
-	chi_so_BMI(nguoi);
+	dong_thoi_gian(nguoi, 5);
 
 	return 0;
 }
